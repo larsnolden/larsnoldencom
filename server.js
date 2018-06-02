@@ -3,7 +3,7 @@
 const express = require("express");
 const Lars = require("./Lars");
 
-const port = 80;
+const port = process.env.PORT || 8080;
 const app = express();
 
 app.get('/', (req, res) => {
