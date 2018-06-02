@@ -1,0 +1,23 @@
+{
+  "locations": ["Toronto", "Germany"],
+  "languages": ["english", "german", "some sort of french"],
+  "skills": [
+    "JavaScript",
+    "Node",
+    "React",
+		"Redux",
+		"cooking",
+    "Ocaml"
+  ],
+  "goals": [
+    "Make this planet a better place",
+    "Work on impactufull things",
+    "Share life with interesting people"
+	],
+	"connect": {
+		"github": "https://github.com/larsnolden",
+		"linkedin": "https://linkedin.com/larsnolden",
+		"twitter": "https://twitter.com/LarsNolden"
+	},
+	"resume": "https://larsnolden.com/files/larsnolden.pdf"
+}
